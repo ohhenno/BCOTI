@@ -1,7 +1,7 @@
 # BCOTI (Budget-Clip-On-Thermal-Imager Remix**)
 The current version uses a 256x192@12um sensor with a 4mm OR 9.1mm lens. This combined with the LZE039 and 10mm or 25mm DCX lens.
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/e246f8bd-13d6-40da-b638-1c03f80dfc5d" />
+<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/e246f8bd-13d6-40da-b638-1c03f80dfc5d" />
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7256239a-ad92-4b70-bd38-ca7e3630afb5" />
 
