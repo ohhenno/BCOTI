@@ -23,4 +23,3 @@ Quick BOM with EU and US buy links per part.
 **Notes**
 - AliExpress "EU" links use the standard `.com`/`s.click` storefront (EU warehouse pricing); "US" links use `aliexpress.us` where available for faster US shipping.
 - Assortment kit prices are for the full kit, not per piece — you'll only need a handful of pieces from each.
-- Full official BOM/build guide: [Jacob-OTW/BCOTI](https://github.com/Jacob-OTW/BCOTI).
