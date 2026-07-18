@@ -9,5 +9,30 @@ The current version uses a 256x192@12um sensor with a 4mm OR 9.1mm lens. This co
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/087ef488-579c-4347-bb40-394c4f286c1f" />
 
+# BCOTI Fork — Parts List
+
+Quick BOM with EU and US buy links per part.
+
+| Part | Price | Description | EU Shop | US Shop |
+|---|---|---|---|---|
+| Thermal Core (Mini2, 256, 9.1mm or 4mm) | ~189€ | Thermal sensor core | [AliExpress](https://s.click.aliexpress.com/e/_ooB5Db9) | [Alibaba (Hdaniee)](https://www.alibaba.com/product-detail/HDANIEE-Series-Thermal-Imaging-Camera-Module_1601290252342.html) |
+| 0.39" OLED Display | $110 / 98€ | Display + AV driver board | [AliExpress](https://s.click.aliexpress.com/e/_oCvDQUx) | [AliExpress US](https://www.aliexpress.us/item/3256809119244467.html) |
+| ESP32-C3 | $1 / 2.6€ | Main controller board | [AliExpress](https://s.click.aliexpress.com/e/_oCkdBST) | [AliExpress US](https://www.aliexpress.us/item/3256808855552297.html) |
+| 5V Boost Converter | $2 | Steps battery voltage up to 5V | [AliExpress](https://www.aliexpress.com/item/32800430445.html) | [Amazon](https://www.amazon.com/dp/B0836J8LR4) |
+| 18350 Battery | ~$7 / ~3.50€ | Power source, button-top preferred | [AliExpress](https://de.aliexpress.com/item/1005006794197560.html) | [Amazon](https://www.amazon.com/Nitecore-NI18350A-700mAh-Rechargeable-Battery/dp/B00ZASC06Y) |
+| Battery Contacts | ~3€ (50pc) / ~$8 (10pc) | Spring terminals for battery holder | [AliExpress](https://www.aliexpress.com/i/1005002703811117.html) | [Amazon (Keystone)](https://www.amazon.com/KEYSTONE-BATTERY-SPRING-CONTACT-pieces/dp/B00LPOWFGM) |
+| Rotary Pot 10k (thumbwheel) | ~$7 (5pc) | Brightness/scroll control | [AliExpress](https://www.aliexpress.com/w/wholesale-10k-rotary-potentiometer.html) | [Amazon](https://www.amazon.com/10K-Ohm-Thumbwheel-Potentiometer-Pack/dp/B015IQP2I0) |
+| Momentary Buttons (assortment) | ~$9 (200pc) | Mixed-size push buttons for menu/power | [AliExpress](https://www.aliexpress.com/w/wholesale-momentary-push-button.html) | [Amazon](https://www.amazon.com/Oiyagai-200-Pcs-Tactile-Momentary-Assortment/dp/B07DG3VGZT) |
+| M2.5 Allen Bolt (assortment) | ~16€ (140pc) / ~$10 (310pc) | Hex socket screws, mixed lengths | [AliExpress](https://www.aliexpress.com/item/32823580440.html) | [Amazon](https://www.amazon.com/Stainless-Steel-Socket-Screw-Assortment/dp/B0116RIAO8) |
+| M2.5 Heat Set Inserts | ~10€ (100pc) / ~$8 (50pc) | Threaded brass inserts for 3D-printed housing | [CNCKitchen](https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m2-5-standard-100-stk-pcs) | [Amazon (initeq)](https://www.amazon.com/initeq-M2-5-0-45-M2-5-0-4-Threaded-Printing/dp/B077CJQ3J4) |
+| Silicone Wire (30AWG) | ~2€ (10m) / ~$10 (6-color kit) | Internal wiring, multiple colors | [AliExpress](https://www.aliexpress.com/item/32719731059.html) | [Amazon](https://www.amazon.com/TUOFENG-30awg-Stranded-Wire-Kit/dp/B07G2SWB19) |
+| 5mmD 25mmF DCX Lens | ~40€ / $41.61 | Periscope objective lens | [Edmund Optics EU](https://www.edmundoptics.eu/p/5mm-dia-x-25mm-fl-uncoated-double-convex-lens/18171/) | [Edmund Optics US](https://www.edmundoptics.com/p/5mm-dia-x-25mm-fl-uncoated-double-convex-lens/18171/) |
+| 5x5x5mm Right-Angle Prism | 1.99€ | Periscope reflector | [AliExpress](https://s.click.aliexpress.com/e/_oBrJOrZ) ([backup](https://www.aliexpress.com/item/4001089104491.html)) | [AliExpress US](https://www.aliexpress.us/item/2255799866264049.html) |
+| USB-C Connector Breakout | 2.25€ | Internal USB-C wiring / low-profile helmet cable | [AliExpress ("TYPE-C male 4P")](https://s.click.aliexpress.com/e/_oCcvkCx) | [Amazon (Treedix)](https://www.amazon.com/Treedix-Type-C-Breakout-Connector-Converter/dp/B096M2HQLK) |
+| USB-C Port | 1.49€ | Charging port, "4P Black" variant | [AliExpress](https://www.aliexpress.com/w/wholesale-usb-type-c-4-pin.html) | [AliExpress US](https://www.aliexpress.us/item/1005005768848819.html) |
+
+**Notes**
+- AliExpress "EU" links use the standard `.com`/`s.click` storefront (EU warehouse pricing); "US" links use `aliexpress.us` where available for faster US shipping.
+- Assortment kit prices are for the full kit, not per piece — you'll only need a handful of pieces from each.
 
 
